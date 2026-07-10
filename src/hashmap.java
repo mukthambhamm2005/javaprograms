@@ -7,7 +7,7 @@ public class hashmap {
         name.put(1,"johnny");
         name.put(2,"ram");
         name.put(3,"meera");
-        name.put(4,"maddy");
+        name.put(4,"mad");
         System.out.println(name);
     }
 }
