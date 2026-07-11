@@ -6,7 +6,7 @@ public class hashmap_hm {
         Map<Integer,String> em=new HashMap<>();
         em.put(234,"ram");
         em.put(235,"abhiram");
-        em.put(236,"rachitha");
+        em.put(236,"radha");
         em.put(237,"ramya");
         em.put(238,"raman");
         System.out.println(em);
